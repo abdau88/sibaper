@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2019/07/25" author="e.World Technology Ltd.">
+  <project id="{67EA411E-68CD-4417-BBD3-7C9FD30B9B35}" file="C:\Users\lizaini\Documents\PHPMaker\Projects\project4.pmp" name="project4" product="PHPMaker" version="15.0" datetime="2019/07/25 10:26:13" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="tb_barang" name="tb_barang" caption="Entry Barang" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_kategori" name="tb_kategori" caption="Kategori" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_penerima" name="tb_penerima" caption="Daftar Penerima Barang" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_satuan" name="tb_satuan" caption="Satuan" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_unitkerja" name="tb_unitkerja" caption="Unit Kerja" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="trx_pembelian" name="trx_pembelian" caption="Pembelian Barang" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="trx_penerimaan" name="trx_penerimaan" caption="Pengambilan Barang" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_vendor" name="tb_vendor" caption="Data Penyedia Barang/ Jasa" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="trx_pembelian_detail" name="trx_pembelian_detail" caption="Rincian Pembelian" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="trx_penerimaan_detail" name="trx_penerimaan_detail" caption="Rincian Pengambilan" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_stok" name="v_stok" caption="Laporan Stok Barang" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_user" name="tb_user" caption="User" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_help1" name="tb_help1" caption="tb help 1" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_lap_pembelian" name="v_lap_pembelian" caption="Laporan Pembelian Barang" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_lap_penerimaan" name="v_lap_penerimaan" caption="Laporan Pengambilan Barang" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_pembelian" name="v_pembelian" caption="v pembelian" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_penerimaan" name="v_penerimaan" caption="v penerimaan" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
